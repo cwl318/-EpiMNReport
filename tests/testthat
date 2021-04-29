@@ -1,0 +1,4 @@
+library(testthat)
+library(EpinetMNReport)
+
+test_check("EpinetMNReport")
